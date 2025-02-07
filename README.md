@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !  
 
-<!--
-**MagiCapSss/MagiCapSss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Qui suis-je ?  
+- 🎓 Étudiant en 3ᵉ année à **ESIEA**, passionné par l'informatique et les nouvelles technologies.  
+- 🌍 Actuellement en échange universitaire à **Chicoutimi, Canada**.  
+- 🎭 Engagé dans la vie associative : **Vice-trésorier du BDE** et **Trésorier du BDS**.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Mes centres d'intérêt  
+- 💻 **Développement** : Passionné par la programmation, notamment en **C, C++, Python**.  
+- 🤖 **Intelligence Artificielle & Cybersécurité** : J’hésite encore entre ces deux domaines pour ma spécialisation.  
+- 🎮 **Développement de jeux** : Actuellement en projet sur un **jeu d'échecs électronique** et participant à des challenges comme la **Nuit de l'Info**.
+- 
+## 📊 Stats GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MagiCapSss&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagiCapSss&layout=compact&theme=dark)
