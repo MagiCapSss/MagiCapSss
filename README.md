@@ -2,7 +2,7 @@
 
 ## 🚀 Qui suis-je ?  
 - 🎓 Étudiant en 3ᵉ année à **ESIEA**, passionné par l'informatique et les nouvelles technologies.  
-- 🌍 Actuellement en échange universitaire à **Chicoutimi, Canada**.  
+- 🌍 J'ai eu l'occasion de faire un échange universitaire à **Chicoutimi, Canada**.  
 - 🎭 Engagé dans la vie associative : **Vice-trésorier du BDE** et **Trésorier du BDS**.  
 
 ## 💡 Mes centres d'intérêt  
